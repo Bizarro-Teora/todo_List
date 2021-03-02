@@ -1,0 +1,20 @@
+.text-input {
+    margin-top: 15px;
+}
+
+.error {
+    /* width: 50%; */
+    align-self: flex-start;
+    color: red;
+    font-size: x-small;
+    margin-left: 15px;
+}
+
+.checkbox {
+    margin-top: 15px;  
+}
+
+
+.button {
+    margin-top: 20px;
+}
